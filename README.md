@@ -1,3 +1,8 @@
 # Chapule
 
-Objetivo
+Objetivo: El objetivo de esta pagina es que por campañas de facebook ads, los colegios chapultepec consigan como resultado prospectos para tener alumnos nuevos, como tactica para crear clientes se propusto hacer una landing page para saber si los hijos de los padres de 28 a 60 años son candidatos a una beca al kinder, colegio e instituto chapultepec.
+
+Prototipo propuesto: https://www.figma.com/file/DHB2xI0IGEpTfiOEbAoF1NG7/Chapultepec?node-id=162%3A0 (la parte de escritorio tiene la version mas final, la imagen que tiene el prototipo no es la final, el cliente tiene que proporsionar una imagen, ellos tienen la idea de que quieren que la imagen cambie dependoendo de la parte del proceso en la que vayan en el formulario(no estoy seguro que se vayan a poner necios en querer que si cambie la imagen es algo que hay que tener en mente) )
+*tengo pendiente diseñar el vector de la pagina de felicidades del colegio y del girasoles*
+
+Ultima respuesta de chapultepec: Mando un pdf con sus cambios sugeridos, pero esos cambios para mi parecer complicaban mucho el proyecto por las preguntas que estan haciendo, se le dio respuesta explicando las rasones por las cuales sus ideas no eran tan buenas, pero no han dado feedback, ellos ahorita estan muy ocupados organizando otros eventos, lo unico que saben es que quieren el proyecto lo mas pronto posible, practicamente ellos estan confiando en que nosotros tomemos las mejores decisiones para conseguir el resultado. Mi compañero que tiene contacto con el cliente mas directo, confia en que sus cambios no tienen mucho sentido. es por eso que pensamos seguir con la decision de seguir con la propuesta de una version del prototipo con algunos de los cambios en texto que ellos proponen. https://www.figma.com/file/DHB2xI0IGEpTfiOEbAoF1NG7/Chapultepec?node-id=162%3A0 
